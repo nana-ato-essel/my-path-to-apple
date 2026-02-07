@@ -1,4 +1,4 @@
-# My-path-to-Apple
+# My Path To Apple
 "My technical roadmap and progress tracking as I journey from PRESEC-Legon to becoming a System Software Engineer at Apple."
 
 # The Way Forward 
